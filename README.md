@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshitaprabhakar@gmail.com**
 
-- ⚡ Fun fact **If I could have any superpower,it would be to speak any language<br>so I could connect with anyone in the world.**
+- ⚡ Fun fact **If I could have any superpower,it would be to speak any language so I could connect with anyone in the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

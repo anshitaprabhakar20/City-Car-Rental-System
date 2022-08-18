@@ -1,7 +1,7 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Clanguage-1024x341.png)
 <h1 align="center">Hi 👋, I'm Anshita Prabhakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width="300px" height="350px" align="right" src="https://cdn.dribbble.com/users/2287419/screenshots/14322962/media/aa0fa275ed986a6a30c0248cebed86cf.gif">
+<img width="250px" height="300px" align="right" src="https://cdn.dribbble.com/users/2287419/screenshots/14322962/media/aa0fa275ed986a6a30c0248cebed86cf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshitaprabhakar20&label=Profile%20views&color=0e75b6&style=flat" alt="anshitaprabhakar20" /> </p>
 
